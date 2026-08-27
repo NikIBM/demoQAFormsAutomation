@@ -1,0 +1,23 @@
+{
+  "name": "demoqaformsautomation",
+  "version": "1.0.0",
+  "description": "The Repo contains the Playwright automation code for the website https://demoqa.com/forms",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikIBM/demoQAFormsAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NikIBM/demoQAFormsAutomation/issues"
+  },
+  "homepage": "https://github.com/NikIBM/demoQAFormsAutomation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0"
+  }
+}
